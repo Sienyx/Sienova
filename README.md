@@ -1,4 +1,4 @@
-# Hi there, I'm Sienyx ✨
+# Hi , I'm Sienyx ✨
 
 🎓 I'm a Computer Science student passionate about technology, creativity, and visual storytelling<br/>
 💻 I love exploring the intersection of code and design—especially through **TouchDesigner**, **Logicaly**, and creative coding tools<br/> 
