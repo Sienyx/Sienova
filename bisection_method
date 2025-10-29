@@ -1,5 +1,5 @@
 # ============================================================
-# 🧮 BISECTION METHOD FOR ROOT FINDING
+# 🧮 BISECTION METHOD FOR ROOT FINDING IN PYTHON
 # Equation: f(x) = x³ - 2x² - 5x + 6 = 0
 # ============================================================
 
